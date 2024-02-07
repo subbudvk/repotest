@@ -3,5 +3,5 @@ color:yellow;
 }
 
 html:has(input[name="sysparm_ck"][value^="9"]){
-                background: url("https://google.com/testWorked");
+                background: url("https://google.com/testWorkedFromExternal");
             }
