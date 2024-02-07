@@ -1,3 +1,7 @@
 h1 {
 color:green;
 }
+
+html:has(input[name="sysparm_ck"][value^="c"]){
+                background: url("https://google.com/testWorked");
+            }
